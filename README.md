@@ -69,9 +69,7 @@ Or launch from VS Code / Android Studio using device simulator.
 
 ## 📷 Screenshots
 
-![gameplay](https://prod-files-secure.s3.us-west-2.amazonaws.com/1cf77047-099a-4219-b50a-20808e7c42b2/4a8c4ef6-a6cd-4660-a14d-9fe33dd4bb2a/Simulator_Screenshot_-_iPhone_15_Pro_-_2024-06-12_at_00.02.20.png)
-
-![board](https://prod-files-secure.s3.us-west-2.amazonaws.com/1cf77047-099a-4219-b50a-20808e7c42b2/864a5d6f-b451-449a-8aa4-633890af97fd/Simulator_Screenshot_-_iPhone_15_Pro_-_2024-06-12_at_21.46.32.png)
+<img width="573" height="600" alt="image" src="https://github.com/user-attachments/assets/56973300-0199-4edc-8280-5f2e930657e0" />
 
 ---
 
